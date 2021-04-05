@@ -1,2 +1,2 @@
-# THIN_Uebung05
-Theoretische Informatik Aufgabe 5 Keller-Automat
+# THIN_Uebung06
+Theoretische Informatik Aufgabe 6 Keller-Automat
